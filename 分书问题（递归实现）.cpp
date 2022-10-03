@@ -1,6 +1,4 @@
 #include <iostream>
-#include <cmath> 
-#include <iomanip> // 注意加上这一行
 
 using namespace std;
 
